@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Sep 2019 00:23:20 at https://codeboxr.net/themedemo/unialumni/html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://codeboxr.net/themedemo/unialumni/html/ -O1 "C:\Users\vibhu\Desktop\Last Last" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:26:01	Error: 	"Not Found" (404) at link https://codeboxr.net/themedemo/unialumni/html/assets/vendor/owl-carousel/owl.video.play.png (from https://codeboxr.net/themedemo/unialumni/html/assets/vendor/owl-carousel/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 130 links scanned, 128 files written (19697845 bytes overall) [18421639 bytes received at 105871 bytes/sec], 1708084 bytes transferred using HTTP compression in 51 files, ratio 22%, 10.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
